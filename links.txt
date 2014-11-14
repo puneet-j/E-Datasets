@@ -19,3 +19,14 @@ http://ampds.org/
 REDD Dataset
 http://redd.csail.mit.edu/
 
+UK-DALE Dataset
+http://ukedc.rl.ac.uk/
+
+BLUED Dataset
+http://nilm.cmubi.org/
+
+GREEND Dataset
+http://sourceforge.net/projects/greend/
+
+Smart Dataset
+http://traces.cs.umass.edu/index.php/Smart/Smart
