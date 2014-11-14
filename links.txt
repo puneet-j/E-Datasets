@@ -1,13 +1,21 @@
+Berkeley Energy dataset
 http://berkeleyearth.org/
 
+PLAID HF (up to 30kHz) dataset
 http://plaidplug.com/
 
+IAWE dataset
 http://iawe.github.io/
 
+Eco dataset
 http://www.vs.inf.ethz.ch/res/show.html?what=eco-data
 
+Wikienergy dataset
 http://en.openei.org/wiki/Main_Page
 
+AMPDS Dataset
 http://ampds.org/
 
+REDD Dataset
 http://redd.csail.mit.edu/
+
