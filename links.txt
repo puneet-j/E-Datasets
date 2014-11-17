@@ -22,6 +22,20 @@ http://redd.csail.mit.edu/
 UK-DALE Dataset
 http://ukedc.rl.ac.uk/
 
+pecan street
+
+
+tracebase
+
+
+Individual household electric power consumption Data Set  EDF EnergyUCI Machine Learning Repository.
+
+
+
+Household Electricity Use Study (HES) UK Energy Savings Trust, Department of Energy and Climate Change, and Department for Environment, Food and Rural Affairs 
+
+Teemu Korpela mentioned another the Octes dataset: http://jack-kelly.com/comment/481#comment-481﻿
+
 BLUED Dataset
 http://nilm.cmubi.org/
 
