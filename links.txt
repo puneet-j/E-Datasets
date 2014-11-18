@@ -22,15 +22,15 @@ http://redd.csail.mit.edu/
 UK-DALE Dataset
 http://ukedc.rl.ac.uk/
 
-pecan street
+Pecan street
+https://dataport.pecanstreet.org/
 
+Tracebase
+https://www.tracebase.org/
 
-tracebase
-
-
-Individual household electric power consumption Data Set  EDF EnergyUCI Machine Learning Repository.
-
-
+Individual household electric power consumption Data Set 
+EnergyUCI Machine Learning Repository.
+https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
 
 Household Electricity Use Study (HES) UK Energy Savings Trust, Department of Energy and Climate Change, and Department for Environment, Food and Rural Affairs 
 
